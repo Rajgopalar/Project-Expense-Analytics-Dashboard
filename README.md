@@ -38,10 +38,10 @@ This Power BI project is designed to convert raw data into actionable visual ins
 
    ![Loca report](https://github.com/user-attachments/assets/cf885534-1a50-4c0f-8d02-8c93e0d9ad4a)
 
-   * Equipment Purchase by Location: Details the equipment purchases by different locations within each department.
+   * Equipment Purchase by Location: Details the equipment purchases by different locations for each department.
    * Expense Analysis by Location: Highlights spending patterns across various locations.
    # Data Preparation
-   ##Data Cleaning and Transformation:
+   ## Data Cleaning and Transformation:
 
    * Power Query: Applied data cleaning techniques, including the creation of custom columns and transformation of raw data.
    * Data Modeling: Built relationships between different tables to ensure accurate and meaningful analysis.
