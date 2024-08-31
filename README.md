@@ -8,8 +8,6 @@ This Power BI project is designed to convert raw data into actionable visual ins
 
    ## Main Dashboard
 
-![Main report](https://github.com/user-attachments/assets/6eb035c5-4f03-4cbe-9263-0d9d27dde63e)
-
    ### Cards:
 
    * Overall Project Budget: Displays the total budget allocated for the K01 project.
@@ -24,22 +22,26 @@ This Power BI project is designed to convert raw data into actionable visual ins
    ### Pie Chart:
 
    * Average Lead Time Comparison: Compares the average lead times for overseas versus local vendors.
+     
+     ![Main report](https://github.com/user-attachments/assets/6eb035c5-4f03-4cbe-9263-0d9d27dde63e)
 
 # Additional Reports
 
    ## Department Cost Analysis:
 
-![Dept  report](https://github.com/user-attachments/assets/cb55cbe1-677d-424e-95ab-1e8229812bb4)
-
 
    * Vendor/ Supplier Expense Breakdown: Provides insights into how costs are distributed among various vendors and suppliers.
    * Cost Trends and Patterns: Analyzes trends in departmental expenses over time.
-   ## Location-based Equipment Purchases:
 
-   ![Loca report](https://github.com/user-attachments/assets/cf885534-1a50-4c0f-8d02-8c93e0d9ad4a)
+   ![Dept  report](https://github.com/user-attachments/assets/cb55cbe1-677d-424e-95ab-1e8229812bb4)
+   
+   ## Location-based Equipment Purchases:
 
    * Equipment Purchase by Location: Details the equipment purchases by different locations for each department.
    * Expense Analysis by Location: Highlights spending patterns across various locations.
+
+      ![Loca report](https://github.com/user-attachments/assets/cf885534-1a50-4c0f-8d02-8c93e0d9ad4a)
+     
    # Data Preparation
    ## Data Cleaning and Transformation:
 
